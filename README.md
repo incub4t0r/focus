@@ -2,8 +2,6 @@
 
 *a learning exercise using flexboxes, javascript, DOM elements, and various scalable elements.*
 
----
-
 ## What does focus do?
 
 focus utilizes `window.onfocus` and `window.onblur` in javascript to detect when a user clicks off a webpage. A counter is also implemented to count how many times a user clicks off the page.
