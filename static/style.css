@@ -26,4 +26,5 @@
 
 body {
     background-color: #baffc9;
+    transition: background-color 1s;
 } 
