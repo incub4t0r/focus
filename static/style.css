@@ -28,3 +28,16 @@ body {
     background-color: #baffc9;
     transition: background-color 1s;
 } 
+.navbar {
+    overflow: hidden;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1vw;
+    text-align: center;
+    justify-content: center;
+
+}
