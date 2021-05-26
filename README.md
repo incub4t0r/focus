@@ -10,3 +10,7 @@ focus utilizes `window.onfocus` and `window.onblur` in javascript to detect when
 
 focus is a flask app, just navigate to the directory and run `python3 app.py`.\
 open a browser and go to [http://localhost:5120](http://localhost:5120) to view the page and test it out
+
+## Is it hosted anywhere for me to see?
+
+Yes! You can go to [amifocused](https://amifocused.000webhostapp.com/).
